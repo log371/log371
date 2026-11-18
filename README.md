@@ -1,8 +1,8 @@
 <!-- GitHub profile README · log371 -->
 
-# Julien L. · Développeur autodidacte
+# Julien L. · IA locale et indépendance numérique
 
-Je construis des outils d’IA sur site et je tiens un [laboratoire indépendant](https://julienl.dev/lab). J’y explore autant la seconde vie d’un ordinateur que l’analyse de signaux radio ou le coût matériel d’un service numérique.
+Je construis des outils d’IA sur site pour garder la maîtrise des données et des dépendances. Je tiens aussi un [laboratoire indépendant](https://julienl.dev/lab). J’y explore autant la seconde vie d’un ordinateur que l’analyse de signaux radio ou le coût matériel d’un service numérique.
 
 **Trois notes pour entrer dans le labo** · [Analyser des signaux radio localement](https://julienl.dev/lab/labradio) · [Bâtir avec du matériel reconditionné](https://julienl.dev/lab/valorisation) · [Regarder le coût matériel du numérique](https://julienl.dev/lab/service)
 
