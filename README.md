@@ -1,8 +1,12 @@
 <!-- GitHub profile README · log371 -->
 
-# Julien L. · Systèmes Linux et IA sur site
+# Julien L. · Développeur autodidacte
 
-Je développe des outils Python pour préparer et tester l’intégration de services d’IA dans une infrastructure d’entreprise. Mes projets documentent les prérequis, les limites et les vérifications que l’on peut reproduire.
+Je construis des outils d’IA sur site et je tiens un [laboratoire indépendant](https://julienl.dev/lab). J’y explore autant la seconde vie d’un ordinateur que l’analyse de signaux radio ou le coût matériel d’un service numérique.
+
+**Trois notes pour entrer dans le labo** · [Analyser des signaux radio localement](https://julienl.dev/lab/labradio) · [Bâtir avec du matériel reconditionné](https://julienl.dev/lab/valorisation) · [Regarder le coût matériel du numérique](https://julienl.dev/lab/service)
+
+## Projets open source
 
 | Projet | Ce que tu peux vérifier |
 | --- | --- |
@@ -11,4 +15,4 @@ Je développe des outils Python pour préparer et tester l’intégration de ser
 | [LocalProof](https://github.com/log371/localproof) | Comparer deux exécutions, repérer les régressions dans les sorties structurées et exporter les résultats. |
 | [SentinelIA](https://github.com/log371/sentinel1.2) | Tester une API de recherche documentaire qui renvoie des citations et permet de changer de fournisseur de modèle. |
 
-**Aix–Marseille** · Ouvert aux postes en développement systèmes et intégration IA sur site · [Portfolio](https://julienl.dev)
+**Aix–Marseille** · Développement systèmes et intégration IA sur site · [Portfolio](https://julienl.dev)
