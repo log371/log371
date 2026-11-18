@@ -10,6 +10,7 @@ Je construis des outils d’IA sur site pour garder la maîtrise des données et
 
 | Projet | Ce que tu peux vérifier |
 | --- | --- |
+| [Le Phare](https://github.com/log371/airgap-lab/tree/main/experiments/phare-bulletins) | Vérifier l’origine, l’intégrité et la séquence d’un bulletin sur un poste hors ligne simulé. [Essayer la démo](https://le-phare-bulletins.vercel.app). |
 | [Airgap Lab](https://github.com/log371/airgap-lab) | Inventorier un hôte candidat et les modèles déclarés par Ollama. L’inspecteur fonctionne en lecture seule sur la machine et exporte un rapport JSON. |
 | [Skillbook](https://github.com/log371/Skillbook) | Vérifier les permissions d’un outil de lecture et l’activation, la signature et le retour arrière des paquets hors ligne dans une démo reproductible. |
 | [LocalProof](https://github.com/log371/localproof) | Comparer deux exécutions, repérer les régressions dans les sorties structurées et exporter les résultats. |
