@@ -1,56 +1,14 @@
 <!-- GitHub profile README · log371 -->
 
-```text
-log371@github:~$ whoami
-Julien L. | Systems Developer / Local AI Engineering
+# Julien L. · Systèmes Linux et IA sur site
 
-log371@github:~$ cat /etc/engineering-principles
-local-first · least privilege · reproducibility · maintainability
-```
+Je développe des outils Python pour préparer et tester l’intégration de services d’IA dans une infrastructure d’entreprise. Mes projets documentent les prérequis, les limites et les vérifications que l’on peut reproduire.
 
-I build practical software around **local AI, Linux systems, backend engineering and security-conscious design**.
+| Projet | Ce que tu peux vérifier |
+| --- | --- |
+| [Airgap Lab](https://github.com/log371/airgap-lab) | Inventorier un hôte candidat et les modèles déclarés par Ollama. L’inspecteur fonctionne en lecture seule sur la machine et exporte un rapport JSON. |
+| [Skillbook](https://github.com/log371/Skillbook) | Vérifier les permissions d’un outil de lecture et l’activation, la signature et le retour arrière des paquets hors ligne dans une démo reproductible. |
+| [LocalProof](https://github.com/log371/localproof) | Comparer deux exécutions, repérer les régressions dans les sorties structurées et exporter les résultats. |
+| [SentinelIA](https://github.com/log371/sentinel1.2) | Tester une API de recherche documentaire qui renvoie des citations et permet de changer de fournisseur de modèle. |
 
-My focus is simple: keep systems understandable, data under control and dependencies justified. I prefer a small working prototype with documented limits over a large collection of promises.
-
-```text
-~/focus
-├── local-ai/       Ollama · RAG · on-premise inference
-├── backend/        Python · FastAPI · APIs · automation
-├── systems/        Linux · Docker · offline workflows
-└── assurance/      tests · permissions · traceability
-```
-
-## Selected work
-
-### [`Skillbook`](https://github.com/log371/Skillbook) — controlled tools for local AI
-
-A reproducible laboratory for deterministic tool permissions, signed offline updates, environment inventories and audit traces. The policy engine—not the LLM—decides which operations are allowed.
-
-**Evidence:** documented offline demo, automated tests, explicit trust boundaries and known limitations.
-
-### [`LocalProof`](https://github.com/log371/localproof) — inspect AI regressions locally
-
-A local-first evaluation workbench that compares structured outputs, records test provenance and exposes differences for inspection. Includes an Ollama integration and a deterministic mock mode.
-
-**Evidence:** reproducible runs, exportable reports, backend and frontend tests, and a clearly labeled real-model example.
-
-### [`SentinelIA`](https://github.com/log371/sentinel1.2) — document intelligence with traceable citations
-
-A FastAPI document-RAG demonstration with file ingestion, source-linked answers and interchangeable LLM providers, including local Ollama and a deterministic mock.
-
-**Evidence:** documented API, local setup instructions, tests and explicit non-production constraints.
-
-## How I work
-
-- **Verify, don't assume.** Document what a test actually establishes.
-- **Security by boundaries.** Validate inputs, restrict capabilities and minimize privileges.
-- **Offline when appropriate.** Make network and model dependencies explicit.
-- **Build for maintenance.** Prefer readable architectures and reproducible environments.
-
-```text
-log371@github:~$ contact --public
-portfolio: https://julienl.dev
-location:  Aix–Marseille, France
-```
-
-> Open to engineering opportunities in backend systems, local AI and on-premise integrations.
+**Aix–Marseille** · Ouvert aux postes en développement systèmes et intégration IA sur site · [Portfolio](https://julienl.dev)
